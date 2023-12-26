@@ -26,20 +26,16 @@ const Clients = () => {
   };
 
   return (
-    <div className="mt-8 bg-gray-100">
-      <section data-aos="fade-up">
-        <div className="my-0 py-4">
-          <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">
-            Our Clients
-          </h2>
-          <div className="flex justify-center">
-            <div className="w-24 border-b-2 border-blue-900"></div>
-          </div>
-          <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">
-            Some of our clients.
-          </h2>
-        </div>
+    <div className="mt-8 bg-gray-100 pb-9">
+      <span className="flex items-center">
+        <hr className="border-t border-blue-900 mx-1 w-20" />
+        <span className="text-primary text-blue-800 text-1xl md:text-3xl font-semibold">
+          Some of our clients.
+        </span>
+        <hr className="border-t border-blue-900 mx-1 flex-grow" />
+      </span>
 
+      <section data-aos="fade-up">
         <div className="p-10" data-aos="fade-in" data-aos-delay="600">
           <Slider {...settings}>
             {clientData.map((client, index) => (

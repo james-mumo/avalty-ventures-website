@@ -5,13 +5,21 @@ import { Link } from "react-router-dom";
 
 const Intro = () => {
   return (
-    <>
+    <div className=" bg-[#e5e5e5]" id="about">
+      <span className="flex items-center">
+        <hr className="border-t border-blue-900 mx-1 w-20" />
+        <span className="text-primary text-blue-800 text-1xl md:text-3xl font-semibold">
+          About Us
+        </span>
+        <hr className="border-t border-blue-900 mx-1 flex-grow" />
+      </span>
+
       <div className="m-auto max-w-6xl p-2 md:p-12 h-5/6" id="about">
         <div
-          className="flex flex-col items-center lg:flex-row py-8 justify-between lg:text-left"
+          className="flex flex-col items-center lg:flex-row py-3 justify-between lg:text-left"
           data-aos="fade-up"
         >
-          <div className="w-fit items-center flex flex-col lg:mx-4 justify-center border rounded-md p-2 shadow-xl">
+          <div className="w-fit items-center flex flex-col lg:mx-4 justify-center border-[#e8f3ff] bg-white border rounded-xl p-2 shadow-xl">
             <img
               alt="card img"
               className="float-right rounded-xl border h-[360px] w-[360px]"
@@ -69,7 +77,7 @@ const Intro = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
