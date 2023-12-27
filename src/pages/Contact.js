@@ -7,7 +7,7 @@ import axios from "axios";
 import Notiflix from "notiflix";
 
 const Contact = () => {
-  useDocTitle("Avalty Ventures || Innovate, Transform, Excel with Us");
+  useDocTitle("Avalyt Ventures || Innovate, Transform, Excel with Us");
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");

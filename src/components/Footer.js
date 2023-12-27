@@ -152,7 +152,7 @@ const Footer = () => {
                 Copyright &copy; {new Date().getFullYear()}
                 {"  "}
                 <HashLink to="#" className=" hover:text-gray-900">
-                  Avalty Ventures
+                  Avalyt Ventures
                 </HashLink>
                 . All rights reserved.
               </div>

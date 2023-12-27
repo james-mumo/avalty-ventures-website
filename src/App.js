@@ -26,7 +26,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("Avalty Ventures || Innovate, Transform, Excel with Us");
+  useDocTitle("Avalyt Ventures || Innovate, Transform, Excel with Us");
 
   return (
     <>
