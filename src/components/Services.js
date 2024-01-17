@@ -45,12 +45,10 @@ const Services = () => {
                   src={img2}
                 />
                 <h2 className="font-semibold my-4 text-2xl text-center">
-                  Funded Proposals Writing
+                   Funded Proposals Writing
                 </h2>
                 <p className="text-md font-medium">
-                  We develop high-quality, custom cross-platform mobile
-                  applications that are robust and optimized for performance,
-                  scalability, and accessibility.
+                   Our Funded Proposals Writing service offers comprehensive support for organizations and individuals seeking funding opportunities. We specialize in crafting compelling proposals that align with your goals and objectives, increasing your chances of securing valuable funding for your projects.
                 </p>
               </div>
             </div>
@@ -72,24 +70,6 @@ const Services = () => {
                 </p>
               </div>
             </div>
-
-            // <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
-            //   <div className="m-2 text-justify text-sm">
-            //     <img
-            //       alt="card img"
-            //       className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out"
-            //       src={img2}
-            //     />
-            //     <h2 className="font-semibold my-4 text-2xl text-center">
-            //       Funded Proposals Writing
-            //     </h2>
-            //     <p className="text-md font-medium">
-            //       Our Funded Proposals Writing service offers comprehensive support for organizations and individuals seeking funding opportunities. We specialize in crafting compelling proposals that align with your goals and objectives, increasing your chances of securing valuable funding for your projects.
-            //     </p>
-            //   </div>
-            // </div>
-
-                    
 
             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
               <div className="m-2 text-justify text-sm">
