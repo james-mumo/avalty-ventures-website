@@ -78,7 +78,7 @@ const Services = () => {
                 <img
                   alt="card img"
                   className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out"
-                  src={yourImageSource}
+                  src={img2}
                 />
                 <h2 className="font-semibold my-4 text-2xl text-center">
                   Funded Proposals Writing
