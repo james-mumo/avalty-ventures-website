@@ -16,8 +16,9 @@ const Footer = () => {
                 <div className="text-md font-medium text-gray-600">
                   <h5>edwinsjohn@gmail.com</h5>
                   <p>+2547 177 511 65</p>
+                  <p>+2547 002 895 30</p>
+                  <p>+2547 912 369 02</p>
                   <p>Nairobi, Kenya</p>
-                  <p>Utawala.</p>
                 </div>
               </div>
             </div>

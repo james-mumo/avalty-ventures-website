@@ -183,7 +183,7 @@ const Contact = () => {
                 </div>
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Office Address</h2>
-                  <p className="text-gray-400">Utawala, Nairobi</p>
+                  <p className="text-gray-400">Nairobi</p>
                 </div>
               </div>
 
