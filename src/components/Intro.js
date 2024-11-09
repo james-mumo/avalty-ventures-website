@@ -17,7 +17,7 @@ const Intro = () => {
       <div className="m-auto max-w-6xl p-4 md:p-12 h-5/6">
         <div className="flex flex-col lg:flex-row items-center justify-center gap-8">
           {/* First Image (slightly larger) */}
-          <div className="flex flex-col items-center bg-slate-300 p-2 rounded-md">
+          <div className="flex flex-col items-center bg-white p-2 rounded-md">
             <img
               src={img1}
               alt="CEO Image 1"
@@ -32,7 +32,7 @@ const Intro = () => {
           </div>
 
           {/* Second Image */}
-          <div className="flex flex-col items-center bg-slate-300 p-2 rounded-md">
+          <div className="flex flex-col items-center bg-white p-2 rounded-md">
             <img
               src={img2}
               alt="CEO Image 2"
