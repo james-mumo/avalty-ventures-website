@@ -21,7 +21,7 @@ const Intro = () => {
             <img
               src={img1}
               alt="CEO Image 1"
-              className="rounded-xl border h-auto w-auto object-cover shadow-xl transform scale-110" // Scale image
+              className="rounded-xl border h-[380px] w-[380px] object-cover shadow-xl"
             />
             <span className="text-gray-900 font-bold text-xl mt-2">
               SANGALO EDWIN ETARUKOT
@@ -36,7 +36,7 @@ const Intro = () => {
             <img
               src={img2}
               alt="CEO Image 2"
-              className="rounded-xl border h-[400px] w-[400px] object-cover object-center shadow-xl"
+              className="rounded-xl border h-[360px] w-[360px] object-cover shadow-xl"
             />
             <span className="text-gray-900 font-bold text-xl mt-2 uppercase">
               COLLEEN ROTICH
