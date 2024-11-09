@@ -36,7 +36,7 @@ const Intro = () => {
             <img
               src={img2}
               alt="CEO Image 2"
-              className="rounded-xl border h-[380px] w-[380px] object-cover shadow-xl"
+              className="rounded-xl border h-[340px] w-[340px] object-cover shadow-xl"
             />
             <span className="text-gray-900 font-bold text-xl mt-2 uppercase">
               Collen Cheprotich
