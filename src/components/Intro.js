@@ -21,7 +21,7 @@ const Intro = () => {
             <img
               src={img1}
               alt="CEO Image 1"
-              className="rounded-xl border h-[380px] w-[380px] object-cover shadow-xl"
+              className="rounded-xl border h-auto w-auto object-cover shadow-xl transform scale-110" // Scale image
             />
             <span className="text-gray-900 font-bold text-xl mt-2">
               SANGALO EDWIN ETARUKOT
