@@ -143,7 +143,7 @@ const Portfolio = () => {
             <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
               <div className="m-2 text-justify text-sm">
                 <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">
-                  Lifestyle & Decor Solutions
+                  Interior Design
                 </h4>
                 <p className="text-md font-medium leading-5 h-auto md:h-48">
                   Our Lifestyle & Decor Solutions category offers a blend of
