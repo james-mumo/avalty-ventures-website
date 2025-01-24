@@ -140,19 +140,20 @@ const Portfolio = () => {
               </div>
             </div>
 
-            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
+            <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
               <div className="m-2 text-justify text-sm">
                 <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">
-                  Event Management System
+                  Lifestyle & Decor Solutions
                 </h4>
                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                  Our event management system helps to manage different types of
-                  events, whether weddings, burials or any kind of event. With
-                  an easily customizable menu, you get to define your user
-                  experience and make your event fully customizable and
-                  memorable. With use cases already recorded for quite a number
-                  of events, we can assure you of a stress-less event mangement
-                  platform.
+                  Our Lifestyle & Decor Solutions category offers a blend of
+                  elegance and practicality for your living spaces. From
+                  interior design services to curtains, furnishings, and related
+                  items, we cater to your aesthetic and functional needs.
+                  Whether you’re revamping your home or creating a cozy
+                  environment, our solutions are designed to elevate your space
+                  with style and sophistication. Discover a seamless way to
+                  combine beauty and functionality in every corner.
                 </p>
                 <div className="flex justify-center my-4">
                   <Link
